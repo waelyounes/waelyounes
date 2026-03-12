@@ -23,3 +23,4 @@ I bridge the gap between AI development and system infrastructure. My focus is o
 * **Location:** Florida, USA
 
 ---
+I have extensive experience in troubleshooting networking issues, specifically resolving port conflicts (8080/80) between Nginx, Apache, and Dockerized environments using Linux core utilities.
